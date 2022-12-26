@@ -1,0 +1,13 @@
+
+
+img{
+    width: 200px;
+    height: 200PX;
+    background-color: red;
+    margin-left: 200px; ;
+    margin-top:30px;
+    /*clip-path: inset(10px );*/
+    /*clip-path: circle(50px at 50px 50%);*/
+   /* clip-path: ellipse(50px 30px at 50px 50px );*/
+   clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+}
